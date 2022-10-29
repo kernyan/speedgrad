@@ -3,3 +3,10 @@ pyopencl
 torch
 numpy
 matplotlib
+diffusers
+transformers
+scipy
+ftfy
+fire
+einops
+torchvision
